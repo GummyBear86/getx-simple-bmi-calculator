@@ -1,6 +1,8 @@
 # getx_simple_bmi_calculator
 
-A new Flutter project.
+just a simple BMI calculator built with Flutter and GetX.
+calculates height and weight using both Metric kg/m and US in/lb.
+
 
 ## Getting Started
 
