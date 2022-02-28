@@ -5,7 +5,7 @@ Just a simple BMI calculator built with Flutter and GetX.
 Calculates in Metric kg/m and also US in/lb
 
 ## ScreenShots
-![1]("screenshots/screenshot1BMI.png")
+![1]("screenshot1BMI.png")
 
 ![2]("screenshots/screenshot2BMI.png")
 
