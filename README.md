@@ -6,7 +6,10 @@ Calculates in Metric kg/m and also US in/lb
 
 ## ScreenShots
 
-![1](screenshots/screenshot1BMI.png)
+<img src="screenshots/screenshot1BMI.png" width="200" height="425">  <img src="screenshots/screenshot2BMI.png" width="200" height="425">
+<img src="screenshots/screenshot3BMI.png" width="200" height="425">  
+<img src="screenshots/screenshot4BMI.png" width="200" height="425">  <img src="screenshots/screenshot5BMI.png" width="200" height="425">  
+
 
 
 
