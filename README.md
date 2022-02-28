@@ -1,5 +1,6 @@
 # Simple BMI Calculator
 
+<<<<<<< HEAD
 Just a simple BMI calculator built with Flutter and GetX. 
 
 Calculates in Metric kg/m and also US in/lb
@@ -15,6 +16,11 @@ Calculates in Metric kg/m and also US in/lb
 ![4]("screenshots/screenshot4BMI.png")
 
 ![5]("screenshots/screenshot5BMI.png")
+=======
+just a simple BMI calculator built with Flutter and GetX.
+calculates height and weight using both Metric kg/m and US in/lb.
+
+>>>>>>> 66bfd70dd3373c402c6c85ddecda1af4b39f05da
 
 ## Getting Started
 
